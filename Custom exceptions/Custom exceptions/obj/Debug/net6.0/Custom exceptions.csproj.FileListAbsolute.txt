@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\bin\Debug\net6.0\Custom exceptions.exe
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\bin\Debug\net6.0\Custom exceptions.deps.json
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\bin\Debug\net6.0\Custom exceptions.runtimeconfig.json
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\bin\Debug\net6.0\Custom exceptions.dll
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\bin\Debug\net6.0\Custom exceptions.pdb
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\Custom exceptions.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\Custom exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\Custom exceptions.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\Custom exceptions.AssemblyInfo.cs
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\Custom exceptions.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\Custom exceptions.dll
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\refint\Custom exceptions.dll
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\Custom exceptions.pdb
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\Custom exceptions.genruntimeconfig.cache
+C:\Users\USER\Desktop\New Projects\Custom exceptions\Custom exceptions\obj\Debug\net6.0\ref\Custom exceptions.dll
